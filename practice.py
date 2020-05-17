@@ -18,3 +18,7 @@ new_shirt = Shirt('blue','s', 15)
 print(new_shirt.color)
 print(new_shirt.size)
 print(new_shirt.price)
+
+new_shirt2 = Shirt('off_white', 'xl', 25)
+
+print(new_shirt2.color)
